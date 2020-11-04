@@ -1,0 +1,5 @@
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.csprojAssemblyReference.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.AssemblyInfoInputs.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.AssemblyInfo.cs
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.csproj.CoreCompileInputs.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.MvcApplicationPartsAssemblyInfo.cache
