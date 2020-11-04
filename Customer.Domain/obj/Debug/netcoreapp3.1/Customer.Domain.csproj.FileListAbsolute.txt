@@ -1,0 +1,9 @@
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.deps.json
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csprojAssemblyReference.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfoInputs.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfo.cs
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.dll
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.pdb
