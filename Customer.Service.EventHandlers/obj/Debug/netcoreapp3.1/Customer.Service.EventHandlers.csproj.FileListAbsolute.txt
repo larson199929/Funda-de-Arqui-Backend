@@ -1,0 +1,3 @@
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Service.EventHandlers\obj\Debug\netcoreapp3.1\Customer.Service.EventHandlers.csprojAssemblyReference.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Service.EventHandlers\obj\Debug\netcoreapp3.1\Customer.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\Diego Alonso\diegosanchez\Development\2020\si653\es3b\Kodoti-Commerce-Microservice-Architecture-.NET-Core-master\src\Services\Customer\Customer.Service.EventHandlers\obj\Debug\netcoreapp3.1\Customer.Service.EventHandlers.AssemblyInfo.cs
